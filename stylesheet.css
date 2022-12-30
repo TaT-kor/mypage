@@ -20,6 +20,10 @@ background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartac
     width: 160px;
     height: 160px;
 }
+
+.bucket:hover {
+  opacity : 0.5;
+}
 .img1 {
     background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-red.png");
     background-size: cover;
